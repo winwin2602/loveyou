@@ -108,8 +108,9 @@ html, body {
     transform: scale(1);
   }
   .present-box .present > .img-wrap img {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
+    margin-left: 37px;
   }
   
   .present-box > .side {
