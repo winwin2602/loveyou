@@ -1,7 +1,7 @@
 
 var to = 'Em!';
 var gift_url = '#';
-var gift_image_url = 'https://winwin2602.github.io/loveyou/anh_1.png';
+var gift_image_url = 'Nguyễn Thi Phước Hồng';
 
 
 var nametag = document.getElementById("nametag");
